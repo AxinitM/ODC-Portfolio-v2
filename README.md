@@ -4,12 +4,12 @@ This project is part of the [Front End Developer Course by Orange Digital Centre
 
 ## Table of contents
 
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-    - [The task](#the-task)
-    - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Author](#author)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [The task](#the-task)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Author](#author)
 
 ### Screenshot
 
